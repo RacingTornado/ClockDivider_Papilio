@@ -1,0 +1,3 @@
+NET clk_in LOC="P89";
+NET scl LOC="P4";
+NET reset LOC="P9";
